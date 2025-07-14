@@ -1,0 +1,8 @@
+#step 1: check if node.js is installed
+node -v
+nom -v
+#step 2: If not installed, install Node.js
+#step 3: Install SASS globally using npm
+npm install -g SASS
+#step 4: verify the installation
+sass --version
